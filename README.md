@@ -1,108 +1,99 @@
 # 🚀 MERN Stack Assignments – Karthik
 
-![MERN Stack](https://miro.medium.com/v2/resize\:fit:1400/1*R4YzK3d7z2qN7sC2N0oHXA.png)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png" width="500"/>
+</p>
 
-Welcome to my **MERN Stack Assignments Repository**.
-
-This repository contains all the **practice assignments completed after each MERN class session**. The goal is to strengthen my **full-stack development skills** by practicing real coding exercises using the **MERN Stack**.
+<p align="center">
+A collection of practice assignments completed while learning the <b>MERN Stack</b>.
+</p>
 
 ---
 
 # 👨‍💻 Author
 
-**Karthik**
-
-Learning **Full Stack Development with MERN Stack**
+**Karthik**  
+📚 Learning **Full Stack Development using MERN Stack**
 
 ---
 
+
+
 # 🧰 Tech Stack
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<p align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-Additional Tools:
-
-* Git & GitHub
-* REST APIs
-* Postman
-* JSON
-* npm
+</p>
 
 ---
 
 # 🧠 MERN Stack Architecture
 
-![MERN Architecture](https://www.mongodb.com/assets/images/mern-stack/mern-stack-diagram.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="100"/>
+</p>
 
-**MongoDB → Express → React → Node**
+### MERN Flow
 
-* **MongoDB** – Database layer for storing application data
-* **Express.js** – Backend framework for building APIs
-* **React.js** – Frontend library for building user interfaces
-* **Node.js** – JavaScript runtime environment
+```
+MongoDB → Express → React → Node
+```
+
+| Technology | Role |
+|------------|------|
+| **MongoDB** | Database for storing application data |
+| **Express.js** | Backend framework for APIs |
+| **React.js** | Frontend library for UI |
+| **Node.js** | Runtime environment |
+```
+
+| Technology | Role |
+|------------|------|
+| **MongoDB** | Database for storing application data |
+| **Express.js** | Backend framework for APIs |
+| **React.js** | Frontend library for UI |
+| **Node.js** | Runtime environment |
 
 ---
 
 # 📂 Repository Structure
 
-```plaintext
-MERN-Assignments/
+```
+MERN-Assignments
 │
 ├── Assignment-1
-│
 ├── Assignment-2
-│
 ├── Assignment-3
-│
 ├── Assignment-4
 │
 └── README.md
 ```
 
-Each folder contains **practice assignments given after MERN classes**.
+Each folder contains **practice assignments completed after MERN class sessions**.
 
 ---
 
-# 🎯 Goals of This Repository
+# 🎯 Purpose of This Repository
 
-✔ Practice MERN stack concepts
-✔ Strengthen full stack development skills
-✔ Build consistency in coding
-✔ Track my learning progress
-
----
-
-# 📚 Topics Covered
-
-Some of the concepts practiced in this repository include:
-
-* JavaScript Fundamentals
-* Node.js Basics
-* Express.js APIs
-* MongoDB CRUD Operations
-* React Components
-* React Hooks
-* Full Stack Integration
-
-More assignments will be added as the course progresses.
+✔ Practice full-stack development  
+✔ Strengthen MERN concepts  
+✔ Build real coding experience  
+✔ Track learning progress  
 
 ---
 
-# ⭐ Support
+# ⭐ If You Like This Repo
 
-If you find this repository helpful:
+Give it a ⭐ on GitHub!
 
-⭐ Star the repository
-🍴 Fork it and practice yourself
-
----
-
-# 📬 Connect
-
-GitHub: **Karthik**
+💻 Happy Coding 🚀
